@@ -2,10 +2,15 @@
 This is a small makeshift night stand to clamp onto the side of a bed so that you can have a tissue box or anything else you need. I personally made this because I don't have a nightstand, and I get sick very often so having a tissue box to my side would be very helpful during the nights when I am sneezing a lot.
 
 Bill of Materials:
+
 2x Clamp: File:Clamp.step Material:PLA
+
 2x Dowel: File:Dowel.step Material:PLA
+
 1x Plate: File:Plate.step Material:PLA
+
 2x Screw: File:Screw.step Material:PLA
+
 2x Screw Cap: File:Screw_Cap.step Material:PLA
 
 Images:
