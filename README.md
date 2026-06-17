@@ -3,15 +3,17 @@ This is a small makeshift night stand to clamp onto the side of a bed so that yo
 
 Bill of Materials:
 
-2x Clamp: File:Clamp.step Material:PLA
+(Prices set accordingly from $18.99/kg of filament)
 
-2x Dowel: File:Dowel.step Material:PLA
+2x Clamp: File:Clamp.step Material:PLA Price(each):$0.90
 
-1x Plate: File:Plate.step Material:PLA
+2x Dowel: File:Dowel.step Material:PLA Price(each):$0.03
 
-2x Screw: File:Screw.step Material:PLA
+1x Plate: File:Plate.step Material:PLA Price(each):$1.85
 
-2x Screw Cap: File:Screw_Cap.step Material:PLA
+2x Screw: File:Screw.step Material:PLA Price(each):$0.28
+
+2x Screw Cap: File:Screw_Cap.step Material:PLA Price(each):$0.06
 
 
 Images:
