@@ -23,12 +23,8 @@ Bill of Materials:
 | Part      |	File           |	Material | Qty | Price(each) |
 | --------- | -------------- | --------- | --- |------------ |
 |	Clamp     |	Clamp.step	   | PLA	     |  2 |	$0.90 |
-
 |	Dowel     |	Dowel.step	   | PLA	     |  2 |	$0.03 |
-
 |	Plate     |	Plate.step	   | PLA	     |  1 |	$1.85 |
-
 |	Screw     |	Screw.step	   | PLA	     |  2	| $0.28 |
-
 |	Screw Cap |	Screw_Cap.step | PLA	     |  2	| $0.06 |
 
