@@ -20,15 +20,15 @@ Bill of Materials:
 (Prices set accordingly from $18.99/kg of filament)
 
 
-| Part      |	File           |	Material | Qty | Price(each)
------------------------------------------------------
-|	Clamp     |	Clamp.step	   | PLA	     |  2 |	$0.90
+| Part      |	File           |	Material | Qty | Price(each) |
+| --------- | -------------- | --------- | --- |------------ |
+|	Clamp     |	Clamp.step	   | PLA	     |  2 |	$0.90 |
 
-|	Dowel     |	Dowel.step	   | PLA	     |  2 |	$0.03
+|	Dowel     |	Dowel.step	   | PLA	     |  2 |	$0.03 |
 
-|	Plate     |	Plate.step	   | PLA	     |  1 |	$1.85
+|	Plate     |	Plate.step	   | PLA	     |  1 |	$1.85 |
 
-|	Screw     |	Screw.step	   | PLA	     |  2	| $0.28
+|	Screw     |	Screw.step	   | PLA	     |  2	| $0.28 |
 
-|	Screw Cap |	Screw_Cap.step | PLA	     |  2	| $0.06
+|	Screw Cap |	Screw_Cap.step | PLA	     |  2	| $0.06 |
 
